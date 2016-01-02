@@ -1,0 +1,16 @@
+current directory: /Users/jenniferbland/Documents/projects/bookmarks/vendor/bundle/gems/debug_inspector-0.0.2/ext/debug_inspector
+/Users/jenniferbland/.rvm/rubies/ruby-2.2.3/bin/ruby -r ./siteconf20160102-72587-1o3yui0.rb extconf.rb
+creating Makefile
+
+current directory: /Users/jenniferbland/Documents/projects/bookmarks/vendor/bundle/gems/debug_inspector-0.0.2/ext/debug_inspector
+make "DESTDIR=" clean
+
+current directory: /Users/jenniferbland/Documents/projects/bookmarks/vendor/bundle/gems/debug_inspector-0.0.2/ext/debug_inspector
+make "DESTDIR="
+compiling debug_inspector.c
+linking shared-object debug_inspector.bundle
+ld: warning: directory not found for option '-L/Users/haven/.sm/pkg/active/lib'
+
+current directory: /Users/jenniferbland/Documents/projects/bookmarks/vendor/bundle/gems/debug_inspector-0.0.2/ext/debug_inspector
+make "DESTDIR=" install
+/usr/bin/install -m 0755 debug_inspector.bundle ./.gem.20160102-72587-1hxjyd5
