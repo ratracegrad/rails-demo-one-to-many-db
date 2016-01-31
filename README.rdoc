@@ -1,28 +1,21 @@
-== README
+# Demonstration of the one-to-many relationship in databases in Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> When using databases there are three ways that different tables can be connected they are:
+1. One to one
+2. One to many
+3. Many to many
 
-Things you may want to cover:
+## Installation
 
-* Ruby version
+```
+git clone https://github.com/ratracegrad/rails-demo-one-to-many-db
+cd to directory
+npm install
+```
 
-* System dependencies
+## Requirements
 
-* Configuration
+- ruby
+- rails
+- PostgresSql database
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
